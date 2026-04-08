@@ -11,9 +11,22 @@ background-image: url(assets/cachorro\ fofinho.jpg);
     margin: 30px auto;
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     text-align: center;
+color: rgb(119, 30, 30);
 
 }
+
+
 h1{
 text-align: center;
+
+}
+input{
+    border-radius: 10px;
+}
+textarea{
+border-radius: 20px; 
+}
+label{
+border-radius: 20px;
 
 }
