@@ -1,8 +1,9 @@
-body{
+body {
 
-background-image: url(assets/cachorro\ fofinho.jpg);
+    background-image: url(assets/cachorro\ fofinho.jpg);
 
 }
+
 .FormularioAdocao {
     background-color: rgba(255, 255, 255, 0.95);
     padding: 25px;
@@ -11,22 +12,25 @@ background-image: url(assets/cachorro\ fofinho.jpg);
     margin: 30px auto;
     box-shadow: 0 0 15px rgba(150, 75, 0, 1);
     text-align: center;
-color: rgb(137, 81, 41);
+    color: rgb(137, 81, 41);
 
 }
 
 
-h1{
-text-align: center;
+h1 {
+    text-align: center;
 
 }
-input{
+
+input {
     border-radius: 10px;
 }
-textarea{
-border-radius: 20px; 
+
+textarea {
+    border-radius: 20px;
 }
-label{
-border-radius: 20px;
+
+label {
+    border-radius: 20px;
 
 }
